@@ -1,3 +1,2 @@
-# React-Project
-My first project in React 
-The final code is yet to be uploaded.
+Amazon landing page using HTML And CSS in React.
+
